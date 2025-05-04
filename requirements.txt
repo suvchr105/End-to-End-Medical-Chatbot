@@ -8,4 +8,7 @@ langchain-pinecone
 langchain_openai
 langchain_community
 langchain_experimental
+gunicorn
+pinecone-client
+sentence-transformers
 -e .
