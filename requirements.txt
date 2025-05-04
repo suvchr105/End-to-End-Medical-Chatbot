@@ -11,4 +11,5 @@ langchain_experimental
 gunicorn
 pinecone-client
 sentence-transformers
+langchain_huggingface
 -e .
