@@ -5,21 +5,23 @@
 
 Clone the repo
 
-'''bash
+```bash
 Project repo: https://github.com/
-'''
+```
 
 ### STEP 01 - Create a conda enviroment after opening the repo
 
-'''bash
+```bash
 conda create -n medibot python=3.10 -y
-'''
+```
+ 
 
-'''bash
+```bash
 conda activate medibot
-'''
+```
+
 
 ### STEP 02- install the requirements 
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
