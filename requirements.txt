@@ -1,19 +1,20 @@
+# Core App
 flask==2.2.5
 gunicorn==20.1.0
 python-dotenv==1.0.1
 pypdf==3.17.4
 
-# LangChain and extensions
+# LangChain ecosystem - all compatible with langchain==0.1.16
 langchain==0.1.16
-langchain-community==0.0.29
+langchain-community==0.0.36
 langchain-openai==0.0.8
 langchain-huggingface==0.1.2
 langchain-pinecone==0.0.3
 langchain-experimental==0.0.50
 
-# Vector DB and Embedding
+# Vector DB + Embeddings
 pinecone-client==2.2.2
 sentence-transformers==2.2.2
 
-# If using setup.py or pyproject.toml
+# If using setup.py
 -e .
