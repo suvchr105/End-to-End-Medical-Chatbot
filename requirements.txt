@@ -1,21 +1,21 @@
-flask==2.2.5
-gunicorn==20.1.0
-python-dotenv==1.0.1
-pypdf==3.17.4
+flask
+gunicorn
+python-dotenv
+pypdf
 
 # Compatible Langchain ecosystem
-langchain==0.1.16
-langchain-community==0.0.36
-langchain-openai==0.0.8
-langchain-huggingface==0.1.2
-langchain-pinecone==0.0.3
-langchain-experimental==0.0.50
+langchain
+langchain-community
+langchain-openai
+langchain-huggingface
+langchain-pinecone
+langchain-experimental
 
-pinecone-client==2.2.2
-sentence-transformers==2.2.2
-openai==1.10.0
-tiktoken==0.9.0
-huggingface-hub>=0.23.0
+pinecone-client
+sentence-transformers
+openai
+tiktoken
+huggingface-hub
 
 # For editable install if using setup.py
 -e .
