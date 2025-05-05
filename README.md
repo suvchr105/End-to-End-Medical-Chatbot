@@ -74,7 +74,7 @@ OPENROUTER_API_KEY=your_openrouter_key
 ## 1. Clone Repo
 
 ```bash
-git clone https://github.com/yourusername/End-to-End-Medical-Chatbot.git
+git clone https://github.com/suvchr105/End-to-End-Medical-Chatbot.git
 cd End-to-End-Medical-Chatbot
 
 ```
